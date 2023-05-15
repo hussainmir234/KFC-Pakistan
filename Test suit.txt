@@ -1,0 +1,43 @@
+Test suit
+
+1. Login System:
+- Test case 1: Verify that a registered user can successfully sign in with valid credentials.
+- Test case 2: Verify that an unregistered user cannot log in.
+- Test case 3: Verify that a new user can successfully create a new account and log in with their new credentials.
+- Test case 4: Verify that the system handles incorrect login credentials appropriately (e.g. displays an error message).
+- Test case 5: Verify that user information and actions are stored and can be retrieved for future reference.
+
+2. Home Page:
+- Test case 6: Verify that the KFC logo and hero banner are displayed on the home page.
+- Test case 7: Verify that users can choose between delivery or pickup option.
+- Test Case 8: Verify that users can choose their location.
+- Test case 9: Verify that the selected location is saved and applied throughout the user's session.
+- Test case 10: Verify that trending deals and categories are displayed, along with the top selling product.
+- Test case 11: Verify that clicking on a category displays all products in that category with their descriptions, prices, names, and pictures.
+- Test case 12: Verify that about and contact information are available in the footer.
+- Test case 13: Verify that all links in the footer are functional and lead to the correct pages.
+
+3. Product Listing:
+- Test case 14: Verify that all products in a selected category are displayed with their descriptions, prices, names, and pictures.
+- Test case 15: Verify that the system displays the correct number of products in a category.
+- Test case 16: Verify that the system displays products in the correct order by price low to high.
+- Test case 17: Verify that clicking on a product displays its details, including add-ons and drinks.
+- Test case 18: Verify that the system correctly handles not availabe items.
+
+4. Cart:
+- Test case 19: Verify that users can add products to the thier Bucket, modify existing ones, and review all listed products.
+- Test case 20: Verify that the system correctly shows a drop down against each produst in the bucket to add drinks and adds on.
+- Test case 21: Verify that users can chose the drinks and sousages once they open thier bucket. 
+- Test case 22: Verify that the system correctly handles adding multiple products to the Bucket.
+- Test case 23: Verify that the system correctly handles removing products from the Bucket.
+- Test case 24: Verify that the system correctly handles modifying product quantities in the Bucket.
+- Test case 25: Verify that the thier bucket displays the total price and individual prices of the products listed.
+- Test case 26: Verify that the system shows "0" on the Bucket logo when its empty. (also displays a message when the cart is empty).
+
+5. Payment and Ordering:
+- Test case 27: Verify that users can enter their payment details and successfully submit an order.
+- Test case 28: Verify that the system displays a confirmation message after payment.
+- Test case 29: Verify that the system correctly handles invalid payment information.
+- Test case 30: Verify that the system correctly handles cancelled orders.
+- Test case 31: Verify that the system correctly handles orders with invalid or out-of-stock items.
+- Test case 32: Verify that the system correctly handles errors during the ordering process (e.g. connection errors, server errors, etc.).

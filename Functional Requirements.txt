@@ -1,0 +1,23 @@
+Functional Requirments.
+
+1. Login System:
+- The system should allow registered users to sign in, and new users to create a new account.
+- Upon successful login, the system should store user information and actions for future reference.
+
+2. Home Page:
+- The home page should display the KFC logo and a hero banner.
+- It should offer options for delivery or pickup, and allow users to select their location.
+- The page should display the trending deals and categories to choose from, as well as the top selling product.
+- About and contact information should be available in the footer.
+
+3. Product Listing:
+- The system should display all products in a selected category with their descriptions, prices, names, and pictures.
+- Clicking on a product should display its details, including add-ons and drinks to pair with it.
+
+4. Cart:
+- The system should allow users to review listed products, add new products, and modify existing ones.
+- The cart should display the total price and individual prices of the products.
+
+5. Payment and Ordering:
+- The system should allow users to enter their payment details and submit an order.
+- After payment, the system should display a confirmation message.

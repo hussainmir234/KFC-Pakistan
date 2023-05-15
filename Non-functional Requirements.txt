@@ -1,0 +1,24 @@
+Non-functional Requirements:
+
+1. Cross-Platform Compatibility
+- The system should be compatible with different platforms and devices, including desktop and mobile devices.
+
+2. Security
+- The system should ensure the privacy and security of user information and transactions by using encryption and other security measures.
+
+3. Performance
+- The system should be fast and responsive to user interactions, with low latency and minimal downtime.
+
+4. Accessibility
+- The system should be designed with accessibility in mind, with features such as alt text for images and proper keyboard navigation for users with disabilities.
+
+5. Usability
+- The system should be user-friendly and intuitive, with clear navigation and minimal user input required.
+
+6. Scalability
+- The system should be able to handle a high volume of traffic and orders without slowing down or crashing.
+
+7. Internationalization and Localization
+- The system should be designed to support multiple languages and currencies, and should be easily customizable for different regions.
+8. Maintenance
+- The system should be easy to maintain and update, with clear documentation and efficient debugging tools.
