@@ -1,0 +1,24 @@
+Test Result: Non-Functional Requirements
+
+1. Test Case: Cross-Platform Compatibility
+   - Test Result: Pass
+   - Comments: The KFC website was successfully accessed and displayed correctly on various desktop browsers (Chrome, Firefox, Safari) as well as on different mobile devices (iOS, Android) using various browsers. The website's layout, functionality, and responsiveness remained consistent across platforms and devices.
+
+2. Test Case: Security
+   - Test Result: Pass
+   - Comments: The registration form properly validated and sanitized user data, preventing the submission of invalid information. Unauthorized access to user-specific information was appropriately denied without proper authentication. Payment information was encrypted and transmitted securely, ensuring the security of user transactions.
+
+3. Test Case: Performance
+   - Test Result: Pass
+   - Comments: The KFC website performed well under the expected load and usage. During load testing, the website consistently maintained an acceptable response time and efficient server resource utilization. Performance and response time remained stable even over an extended period, demonstrating good scalability.
+
+4. Test Case: Accessibility
+   - Test Result: Pass
+   - Comments: The KFC website met accessibility standards, allowing users with disabilities to navigate and interact with the website effectively. Keyboard navigation was properly implemented, and all images had appropriate alt text. Screen readers accurately interpreted the website's content, ensuring accessibility for visually impaired users.
+
+5. Test Case: Usability
+   - Test Result: Pass
+   - Comments: The KFC website demonstrated excellent usability. Common user tasks, such as logging in, browsing products, adding items to the cart, and completing an order, were performed effortlessly. User feedback and opinions collected through surveys and interviews were overwhelmingly positive, indicating a highly user-friendly and intuitive interface.
+
+Overall Test Suite Result: Pass
+Comments: The non-functional requirements of the KFC website were successfully tested and met the expected criteria. The website exhibited cross-platform compatibility, strong security measures, good performance under load, accessibility for users with disabilities, and excellent usability. The project has fulfilled the non-functional requirements effectively.
