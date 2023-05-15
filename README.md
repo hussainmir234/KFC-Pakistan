@@ -1,8 +1,6 @@
-Hi,
-Hope you're doing great, this was one of our Univercity project that I have worked on, it was not as extensive as i have made it but the inpiration and the start was from there.
-I hope you ejnoy looking at my progress and i wish to get any knoladge that can improve my ablities in SQA or in anu field of life, I'm always ready to learn, so if you cross your eye over somthing that can be better please let me know.
-Thanks in advacne.
-Best regrades,
+Hi, 
+Hope everything is well with you; this was one of our university projects that I worked on; it was not as extensive as I had created it, but the inspiration and start came from there. I hope you enjoy looking at my development, and I aim to gain any knowledge that can improve my abilities in SQA or in any other sector of life. I'm always eager to learn, so if you see something that could be improved, please let me know. Thank you in advance. 
+Excellent regrades, 
 Hussain
 ------------------------------------------------------------------------------------------------------------------------------------
 KFC- Pakistan
