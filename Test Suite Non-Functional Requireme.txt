@@ -1,0 +1,41 @@
+Test Suite: Non-Functional Requirements
+
+1. Test Case: Cross-Platform Compatibility
+   - Test Objective: Verify that the KFC website functions correctly on different platforms and devices.
+   - Test Steps:
+     1. Access the KFC website on various desktop browsers (e.g., Chrome, Firefox, Safari).
+     2. Access the KFC website on different mobile devices (e.g., iOS, Android) using various browsers.
+     3. Verify that the website layout, functionality, and responsiveness are consistent across platforms and devices.
+   - Expected Result: The KFC website should function properly and display correctly on different platforms and devices.
+
+2. Test Case: Security
+   - Test Objective: Ensure that user information and transactions are secure on the KFC website.
+   - Test Steps:
+     1. Submit a registration form with valid and invalid data to test data validation and sanitization.
+     2. Attempt to access user-specific information without proper authentication.
+     3. Make a payment using valid and invalid payment details to test data encryption and secure transmission.
+   - Expected Result: User data should be properly validated and sanitized. Unauthenticated access to sensitive information should be denied. Payment information should be encrypted and transmitted securely.
+
+3. Test Case: Performance
+   - Test Objective: Validate that the KFC website performs well under expected load and usage.
+   - Test Steps:
+     1. Simulate a high volume of user requests concurrently by using load testing tools.
+     2. Measure the website's response time and server resource usage during peak loads.
+     3. Monitor the website's performance and response time over an extended period.
+   - Expected Result: The website should handle the expected load without significant degradation in performance. Response time should remain within acceptable limits, and server resources should be efficiently utilized.
+
+4. Test Case: Accessibility
+   - Test Objective: Verify that the KFC website is accessible to users with disabilities.
+   - Test Steps:
+     1. Navigate the website using only the keyboard to ensure proper keyboard navigation.
+     2. Check that all images have appropriate alt text.
+     3. Use screen readers to navigate and interact with the website.
+   - Expected Result: The website should be accessible via keyboard navigation and provide proper alternative text for images. Screen readers should be able to read and interpret the website's content accurately.
+
+5. Test Case: Usability
+   - Test Objective: Evaluate the user-friendliness and intuitiveness of the KFC website.
+   - Test Steps:
+     1. Perform common user tasks, such as logging in, browsing products, adding items to the cart, and completing an order.
+     2. Observe and record the time and effort required to complete each task.
+     3. Collect user feedback and opinions through surveys or interviews.
+   - Expected Result: The website should have a clear and intuitive user interface, minimizing the time and effort required to complete common tasks. User feedback should indicate a positive user experience.

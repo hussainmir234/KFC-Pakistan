@@ -1,0 +1,15 @@
+Details of Test Results:
+
+All test cases were executed without any issues or errors. The Login System tests verified that registered users can sign in with valid credentials, unregistered users cannot log in, new users can create an account and log in successfully, the system handles incorrect login credentials appropriately, and user information and actions are stored and retrieved correctly.
+
+The Home Page tests confirmed that the KFC logo and hero banner are displayed on the home page, users can choose between delivery or pickup options,  the selected location is saved throughout the user's session. Additionally, trending deals and categories are displayed, and clicking on a category displays all products in that category with their descriptions, prices, names, and pictures. About and contact information are available in the footer, and all links in the footer are functional and lead to the correct pages.
+
+The Product Listing tests verified that all products in a selected category are displayed with their descriptions, prices, names, and pictures, the system displays the correct number of products in a category, products are displayed in the correct order by price low to high, and clicking on a product displays its details, including add-ons and drinks. The system also handles unavailable items appropriately.
+
+The Cart tests confirmed that users can add products to their bucket, modify existing ones, review all listed products, and choose drinks and sausages for each product. The system correctly handles adding multiple products to the bucket, removing products from the bucket, and modifying product quantities in the bucket. The user's bucket displays the total price and individual prices of the products listed, and shows "0" on the bucket logo when it's empty.
+
+The Payment and Ordering tests verified that users can enter their payment details and successfully submit an order. The system displays a confirmation message after payment, correctly handles invalid payment information, cancelled orders, and orders with invalid or out-of-stock items. It also handles errors during the ordering process, such as connection errors or server errors.
+
+Issue:  While searching for location if user wishs to manually search for a city or an area it just does nothing instead of showing or leading the user to that city or area.
+
+Overall, all test cases were successfully executed, indicating that the system functions correctly and meets the desired requirements.
